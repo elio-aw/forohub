@@ -34,9 +34,6 @@ https://github.com/Gercodex/Foro-Hub-Challenge/assets/157858339/bd74e9cc-e33f-46
 
 ![swagger-ui-docs-result](https://github.com/Gercodex/Foro-Hub-Challenge/assets/157858339/bcc0704f-1a2b-4fb3-9858-f65d0f31e569)
 
-## Sobre el autor
-
-https://www.linkedin.com/in/gerardo-gutierrez-rodriguez-37629a196/
 
 ## Agradecimientos
 
